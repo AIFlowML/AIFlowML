@@ -1,4 +1,18 @@
-## Hi there 👋
+<div style="text-align: center;">
+  ✨ Support My AI Journey! ✨
+</div>
+<div style="text-align: center;">
+  [![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/AIFlowML)
+</div>
+<div style="text-align: center;">
+  🚀 Fuel my AI & ML projects with a crypto tip! 🚀
+</div>
+
+
+
+
+  
+
 
 <!--
 **AIFlowML/AIFlowML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
