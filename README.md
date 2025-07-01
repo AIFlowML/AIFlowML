@@ -8,10 +8,22 @@
   🚀 Fuel my AI & ML projects with a crypto tip! 🚀
 </div>
 
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-07-01T17:51:05.957Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0xEfDaFA4Cc07BbF8421477db4E3Ce79C96Baf5465"
+    },
+    {
+      "chain": "solana",
+      "address": "84oWfZSa2ABSEKKLqcsA4UNKqKz1WPVxNGftkRjDEJEg"
+    }
+  ]
+}
+WALLET-LINKING-END -->
 
-
-
-  
 
 
 <!--
