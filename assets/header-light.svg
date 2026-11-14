@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="1200" height="430" role="img" aria-label="Igor Lessio, Founder and CEO of AIFLOW LABS LIMITED, Hong Kong. I build AI products that act under human approval and prove what they did. Loop: Inspect, Approve, Repair, Verify, Report.">
+<title>Igor Lessio, Founder and CEO of AIFLOW LABS LIMITED, Hong Kong. I build AI products that act under human approval and prove what they did. Loop: Inspect, Approve, Repair, Verify, Report.</title>
+<style>@media (prefers-reduced-motion: reduce){.mv{display:none}}</style>
+<defs>
+<pattern id="ghl" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#0f3a35" stroke-opacity="0.09" stroke-width="1"/></pattern>
+<radialGradient id="rhl" cx="80%" cy="40%" r="55%"><stop offset="0" stop-color="#5cc4b8" stop-opacity="0.22"/><stop offset="1" stop-color="#5cc4b8" stop-opacity="0"/></radialGradient>
+<clipPath id="chl"><rect width="1200" height="430" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#chl)">
+<rect width="1200" height="430" fill="#f7f5ef"/>
+<rect width="1200" height="430" fill="url(#ghl)"/>
+<rect width="1200" height="430" fill="url(#rhl)"><animate attributeName="opacity" values="0.75;1;0.75" dur="9s" repeatCount="indefinite"/></rect>
+<text x="80" y="78" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" letter-spacing="5" fill="#0f766e">AIFLOW LABS LIMITED · HONG KONG</text>
+<text x="78" y="166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="78" font-weight="800" letter-spacing="1" fill="#0b1211">IGOR <tspan fill="#0f766e">LESSIO</tspan></text>
+<text x="80" y="212" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" letter-spacing="3" fill="#9a6a0a">FOUNDER &amp; CEO</text>
+<text x="80" y="254" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="25" fill="#3b4744">I build AI products that act under human approval and prove what they did.</text>
+<line x1="60" y1="372" x2="1140" y2="372" stroke="#cfd6d2" stroke-width="1.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+<line x1="164.0" y1="342" x2="164.0" y2="372" stroke="#cfd6d2" stroke-width="1.5"/>
+<rect x="80" y="296" width="168" height="46" rx="23" fill="#ffffff" stroke="#cfd6d2" stroke-width="1.5"><animate attributeName="stroke" values="#cfd6d2;#cfd6d2;#0f766e;#cfd6d2;#cfd6d2" keyTimes="0;0.042;0.087;0.197;1" dur="11s" repeatCount="indefinite"/></rect>
+<text x="104" y="325" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#9a6a0a">01</text>
+<text x="134" y="326" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#3b4744">Inspect<animate attributeName="fill" values="#3b4744;#3b4744;#0b1211;#3b4744;#3b4744" keyTimes="0;0.042;0.087;0.197;1" dur="11s" repeatCount="indefinite"/></text>
+<circle cx="164.0" cy="372" r="4.5" fill="#f7f5ef" stroke="#6b7673" stroke-width="1.5"><animate attributeName="stroke" values="#6b7673;#6b7673;#0f766e;#6b7673;#6b7673" keyTimes="0;0.042;0.087;0.197;1" dur="11s" repeatCount="indefinite"/></circle>
+<line x1="372.0" y1="342" x2="372.0" y2="372" stroke="#cfd6d2" stroke-width="1.5"/>
+<rect x="288" y="296" width="168" height="46" rx="23" fill="#ffffff" stroke="#cfd6d2" stroke-width="1.5"><animate attributeName="stroke" values="#cfd6d2;#cfd6d2;#0f766e;#cfd6d2;#cfd6d2" keyTimes="0;0.215;0.260;0.370;1" dur="11s" repeatCount="indefinite"/></rect>
+<text x="312" y="325" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#9a6a0a">02</text>
+<text x="342" y="326" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#3b4744">Approve<animate attributeName="fill" values="#3b4744;#3b4744;#0b1211;#3b4744;#3b4744" keyTimes="0;0.215;0.260;0.370;1" dur="11s" repeatCount="indefinite"/></text>
+<circle cx="372.0" cy="372" r="4.5" fill="#f7f5ef" stroke="#6b7673" stroke-width="1.5"><animate attributeName="stroke" values="#6b7673;#6b7673;#0f766e;#6b7673;#6b7673" keyTimes="0;0.215;0.260;0.370;1" dur="11s" repeatCount="indefinite"/></circle>
+<line x1="580.0" y1="342" x2="580.0" y2="372" stroke="#cfd6d2" stroke-width="1.5"/>
+<rect x="496" y="296" width="168" height="46" rx="23" fill="#ffffff" stroke="#cfd6d2" stroke-width="1.5"><animate attributeName="stroke" values="#cfd6d2;#cfd6d2;#0f766e;#cfd6d2;#cfd6d2" keyTimes="0;0.388;0.433;0.543;1" dur="11s" repeatCount="indefinite"/></rect>
+<text x="520" y="325" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#9a6a0a">03</text>
+<text x="550" y="326" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#3b4744">Repair<animate attributeName="fill" values="#3b4744;#3b4744;#0b1211;#3b4744;#3b4744" keyTimes="0;0.388;0.433;0.543;1" dur="11s" repeatCount="indefinite"/></text>
+<circle cx="580.0" cy="372" r="4.5" fill="#f7f5ef" stroke="#6b7673" stroke-width="1.5"><animate attributeName="stroke" values="#6b7673;#6b7673;#0f766e;#6b7673;#6b7673" keyTimes="0;0.388;0.433;0.543;1" dur="11s" repeatCount="indefinite"/></circle>
+<line x1="788.0" y1="342" x2="788.0" y2="372" stroke="#cfd6d2" stroke-width="1.5"/>
+<rect x="704" y="296" width="168" height="46" rx="23" fill="#ffffff" stroke="#cfd6d2" stroke-width="1.5"><animate attributeName="stroke" values="#cfd6d2;#cfd6d2;#0f766e;#cfd6d2;#cfd6d2" keyTimes="0;0.562;0.607;0.717;1" dur="11s" repeatCount="indefinite"/></rect>
+<text x="728" y="325" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#9a6a0a">04</text>
+<text x="758" y="326" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#3b4744">Verify<animate attributeName="fill" values="#3b4744;#3b4744;#0b1211;#3b4744;#3b4744" keyTimes="0;0.562;0.607;0.717;1" dur="11s" repeatCount="indefinite"/></text>
+<circle cx="788.0" cy="372" r="4.5" fill="#f7f5ef" stroke="#6b7673" stroke-width="1.5"><animate attributeName="stroke" values="#6b7673;#6b7673;#0f766e;#6b7673;#6b7673" keyTimes="0;0.562;0.607;0.717;1" dur="11s" repeatCount="indefinite"/></circle>
+<line x1="996.0" y1="342" x2="996.0" y2="372" stroke="#cfd6d2" stroke-width="1.5"/>
+<rect x="912" y="296" width="168" height="46" rx="23" fill="#ffffff" stroke="#cfd6d2" stroke-width="1.5"><animate attributeName="stroke" values="#cfd6d2;#cfd6d2;#0f766e;#cfd6d2;#cfd6d2" keyTimes="0;0.735;0.780;0.890;1" dur="11s" repeatCount="indefinite"/></rect>
+<text x="936" y="325" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#9a6a0a">05</text>
+<text x="966" y="326" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#3b4744">Report<animate attributeName="fill" values="#3b4744;#3b4744;#0b1211;#3b4744;#3b4744" keyTimes="0;0.735;0.780;0.890;1" dur="11s" repeatCount="indefinite"/></text>
+<circle cx="996.0" cy="372" r="4.5" fill="#f7f5ef" stroke="#6b7673" stroke-width="1.5"><animate attributeName="stroke" values="#6b7673;#6b7673;#0f766e;#6b7673;#6b7673" keyTimes="0;0.735;0.780;0.890;1" dur="11s" repeatCount="indefinite"/></circle>
+<g class="mv"><circle cy="372" r="9" fill="#9a6a0a" opacity="0.22"><animate attributeName="cx" values="60;1140;1140" keyTimes="0;0.9;1" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.22;0.22;0;0" keyTimes="0;0.03;0.87;0.9;1" dur="11s" repeatCount="indefinite"/></circle>
+<circle cy="372" r="4" fill="#9a6a0a"><animate attributeName="cx" values="60;1140;1140" keyTimes="0;0.9;1" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.87;0.9;1" dur="11s" repeatCount="indefinite"/></circle></g>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="429" rx="14" fill="none" stroke="#d9d4c7"/>
+</svg>
