@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 124" width="900" height="124" role="img" aria-label="23+ years building and operating production software and IT systems. Founder and CEO of AIFLOW LABS LIMITED, privately owned, for-profit. Hong Kong company, registered office in Sheung Wan.">
+<title>23+ years building and operating production software and IT systems. Founder and CEO of AIFLOW LABS LIMITED, privately owned, for-profit. Hong Kong company, registered office in Sheung Wan.</title>
+<style>@media (prefers-reduced-motion: reduce){.mv{display:none}}</style>
+<defs>
+<pattern id="gsl" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#0f3a35" stroke-opacity="0.09" stroke-width="1"/></pattern>
+<radialGradient id="rsl" cx="50%" cy="120%" r="55%"><stop offset="0" stop-color="#5cc4b8" stop-opacity="0.22"/><stop offset="1" stop-color="#5cc4b8" stop-opacity="0"/></radialGradient>
+<clipPath id="csl"><rect width="900" height="124" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#csl)">
+<rect width="900" height="124" fill="#f7f5ef"/>
+<rect width="900" height="124" fill="url(#gsl)"/>
+<rect width="900" height="124" fill="url(#rsl)"></rect>
+<text x="30" y="52" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="25" font-weight="800" fill="#0b1211">23+ years</text>
+<text x="30" y="78" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#3b4744">building and operating production</text>
+<text x="30" y="97" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6b7673">software and IT systems</text>
+<line x1="300" y1="26" x2="300" y2="98" stroke="#d9d4c7"/>
+<text x="330" y="52" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="25" font-weight="800" fill="#0b1211">Founder &amp; CEO</text>
+<text x="330" y="78" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#3b4744">AIFLOW LABS LIMITED</text>
+<text x="330" y="97" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6b7673">privately owned, for-profit</text>
+<line x1="600" y1="26" x2="600" y2="98" stroke="#d9d4c7"/>
+<text x="630" y="52" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="25" font-weight="800" fill="#0b1211">Hong Kong company</text>
+<text x="630" y="78" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#3b4744">registered office in Sheung Wan</text>
+<text x="630" y="97" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6b7673">Company No. 78586258</text>
+<rect x="0" y="0" width="900" height="3" fill="#0f766e" opacity="0.9"/>
+</g>
+<rect x="0.5" y="0.5" width="899" height="123" rx="14" fill="none" stroke="#d9d4c7"/>
+</svg>
